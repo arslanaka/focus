@@ -16,5 +16,8 @@ Welcome to Focus Timer, your fun and simple productivity booster! This project h
 	1.	Open the app in your browser.
 	2.	Set your desired focus time.
 	3.	Start working!
-    
+
+
+    https://focus996.netlify.app/
+
 Start focusing today with Focus Timer! 💪
